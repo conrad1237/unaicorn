@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="751d7420-3b3c-4367-934c-4848620850af" name="Default Changelist" comment="" />
+    <list default="true" id="751d7420-3b3c-4367-934c-4848620850af" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +17,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1VHB5zwrRfgbU98ps5LYLkZRZSn" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -53,9 +59,9 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2255" y="315" key="com.intellij.ide.util.TipDialog" timestamp="1576961884448">
+    <state x="2255" y="315" key="com.intellij.ide.util.TipDialog" timestamp="1577494118021">
       <screen x="1920" y="0" width="1280" height="984" />
     </state>
-    <state x="2255" y="315" key="com.intellij.ide.util.TipDialog/-1920.0.1536.832/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1576961884448" />
+    <state x="2255" y="315" key="com.intellij.ide.util.TipDialog/-1920.0.1536.832/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1577494118021" />
   </component>
 </project>
